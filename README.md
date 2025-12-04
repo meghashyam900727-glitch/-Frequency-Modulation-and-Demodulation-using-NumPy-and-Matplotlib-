@@ -64,5 +64,5 @@ __Output:__
 <img width="629" height="469" alt="image" src="https://github.com/user-attachments/assets/96bab427-3672-451b-90ad-cf92eb5ec7f4" />
 
 __Result:__
-The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. 
-The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
+![image](https://github.com/user-attachments/assets/37cb3646-a747-49f1-8b80-174008dcd564)
+
