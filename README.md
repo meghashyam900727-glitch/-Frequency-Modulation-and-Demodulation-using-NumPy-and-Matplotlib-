@@ -57,12 +57,12 @@ plt.show()
 
 #### Tabulation:
 
-![WhatsApp Image 2025-11-26 at 21 42 02_15096bf0](https://github.com/user-attachments/assets/28ac3ee7-8f43-4842-bd39-bbf4d6b6bd84)
+![WhatsApp Image 2025-12-10 at 10 49 13_3778f23e](https://github.com/user-attachments/assets/4c1e5cb9-6feb-4124-a7f3-459aebbf709f)
 
 __Output:__
 
 <img width="629" height="469" alt="image" src="https://github.com/user-attachments/assets/96bab427-3672-451b-90ad-cf92eb5ec7f4" />
 
 __Result:__
-![image](https://github.com/user-attachments/assets/37cb3646-a747-49f1-8b80-174008dcd564)
+thus,To implement and analyze frequency modulation (FM) using Python's NumPy and Matplotlib libraries is verified
 
